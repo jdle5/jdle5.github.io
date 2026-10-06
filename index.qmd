@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Jacqueline Le"
 subtitle: "Graduate student in political science"
 about:
   template: jolla
@@ -8,10 +8,10 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:you@uh.edu
+      href: mailto:jdle5@uh.edu
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/jdle5
 ---
 
 ## About
