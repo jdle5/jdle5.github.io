@@ -3,8 +3,8 @@ title: "Jacqueline Le"
 subtitle: "Graduate student in political science"
 about:
   template: jolla
-  image: files/profile-placeholder.svg
-  image-alt: "Placeholder profile picture"
+  image: files/pfp.jpg
+  image-alt: "Profile picture"
   links:
     - icon: envelope
       text: Email
